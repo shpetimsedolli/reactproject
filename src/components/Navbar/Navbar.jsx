@@ -9,8 +9,8 @@ const Menu = () => (
     <a href="#careers">Company</a>
     <a href="#academypage">Courses</a>
     <a href="#passions">Teachers</a>
-    <a href="#Shop">Shop</a>
-    <a href="#Blog">Blog</a>
+    <a href="#service">Shop</a>
+    <a href="#B">Blog</a>
     <a href="#ContactUs">Contact Us</a>
   </>
 );

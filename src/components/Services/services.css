@@ -1,0 +1,39 @@
+.services {
+  margin-top: 150px;
+}
+
+.servicewrap {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.service__box {
+  position: relative;
+  border-radius: 15px;
+  border: 1px solid #dadce0;
+  height: 250px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 0px 20px;
+  margin-top: 75px;
+}
+
+.service__box h5 {
+  font-size: 17px;
+  font-weight: 500;
+  margin-top: 40px;
+}
+
+.service__box h5:first-child {
+  margin-left: 15px;
+}
+
+.service__icon {
+  position: absolute;
+  top: -16px;
+}

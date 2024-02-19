@@ -1,0 +1,29 @@
+.passion {
+  background-color: #fdf2f2;
+  padding: 100px 0px;
+}
+
+.section__tittle {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.passion__content img {
+  object-fit: none;
+}
+
+.passion__content ol li::marker {
+  color: #d94645;
+}
+
+.passion__content ol li {
+  font-size: 30px;
+  margin-bottom: 33px;
+}
+
+.passion__content ol p {
+  font-size: 17px;
+  color: #666666;
+  margin-bottom: 50px;
+}
