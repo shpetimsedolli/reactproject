@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Group_88" data-name="Group 88" transform="translate(-206 63)">
+    <g id="Group_85" data-name="Group 85">
+      <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(206 -63)" fill="#d94645" stroke="#d94645" stroke-width="1">
+        <circle cx="5" cy="5" r="5" stroke="none"/>
+        <circle cx="5" cy="5" r="4.5" fill="none"/>
+      </g>
+      <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(221 -63)" fill="none" stroke="#d94645" stroke-width="1">
+        <circle cx="5" cy="5" r="5" stroke="none"/>
+        <circle cx="5" cy="5" r="4.5" fill="none"/>
+      </g>
+      <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(236 -63)" fill="none" stroke="#d94645" stroke-width="1">
+        <circle cx="5" cy="5" r="5" stroke="none"/>
+        <circle cx="5" cy="5" r="4.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_86" data-name="Group 86" transform="translate(0 15)">
+      <circle id="Ellipse_5-2" data-name="Ellipse 5" cx="5" cy="5" r="5" transform="translate(206 -63)" fill="#d94645"/>
+      <g id="Ellipse_6-2" data-name="Ellipse 6" transform="translate(221 -63)" fill="none" stroke="#d94645" stroke-width="1">
+        <circle cx="5" cy="5" r="5" stroke="none"/>
+        <circle cx="5" cy="5" r="4.5" fill="none"/>
+      </g>
+      <g id="Ellipse_7-2" data-name="Ellipse 7" transform="translate(236 -63)" fill="none" stroke="#d94645" stroke-width="1">
+        <circle cx="5" cy="5" r="5" stroke="none"/>
+        <circle cx="5" cy="5" r="4.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_87" data-name="Group 87" transform="translate(0 30)">
+      <g id="Ellipse_5-3" data-name="Ellipse 5" transform="translate(206 -63)" fill="#d94645" stroke="#d94645" stroke-width="1">
+        <circle cx="5" cy="5" r="5" stroke="none"/>
+        <circle cx="5" cy="5" r="4.5" fill="none"/>
+      </g>
+      <circle id="Ellipse_6-3" data-name="Ellipse 6" cx="5" cy="5" r="5" transform="translate(221 -63)" fill="#d94645"/>
+      <g id="Ellipse_7-3" data-name="Ellipse 7" transform="translate(236 -63)" fill="#d94645" stroke="#d94645" stroke-width="1">
+        <circle cx="5" cy="5" r="5" stroke="none"/>
+        <circle cx="5" cy="5" r="4.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
