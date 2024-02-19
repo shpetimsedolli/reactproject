@@ -13,6 +13,7 @@ import {
 } from "./components";
 
 import "./App.css";
+import "./responsive.css";
 const App = () => {
   return (
     <div className="App">

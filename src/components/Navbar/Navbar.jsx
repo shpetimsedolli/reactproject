@@ -47,7 +47,7 @@ const Navbar = () => {
             />
           )}
           {toggleMenu && (
-            <ul className="links">
+            <ul className="links active">
               <Menu />
             </ul>
           )}
