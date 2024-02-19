@@ -11,7 +11,7 @@ import ed from "../../assets/1ed2649ba3bc113b76f9ee30f24be572.svg";
 const Brands = () => {
   return (
     <div className="brands">
-      <div className="brandswrap">
+      <div className="brandswrap" data-aos="zoom-in">
         <h5>
           We are part of a initiative of the top educators around the word
         </h5>

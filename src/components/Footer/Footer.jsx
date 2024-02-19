@@ -4,9 +4,9 @@ import group88 from "../../assets/Group 88.svg";
 
 const Footer = () => {
   return (
-    <div className="footer" data-aos="fade-right">
+    <div className="footer">
       <div className="container">
-        <div className="footerwrap">
+        <div className="footerwrap" data-aos="zoom-in">
           <div className="footer__content">
             <div className="footer__logo">
               <img src={group88} alt="" />

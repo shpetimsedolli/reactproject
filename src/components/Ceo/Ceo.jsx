@@ -6,7 +6,7 @@ const Ceo = () => {
   return (
     <div className="ceo">
       <div className="container">
-        <div className="ceowrap">
+        <div className="ceowrap" data-aos="zoom-in">
           <img className="academy__img" src={andrea} alt="" />
           <div className="ceo__content">
             <p>
