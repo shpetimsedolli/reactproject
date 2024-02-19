@@ -6,7 +6,7 @@ import logo from "../../assets/logo.svg";
 const Menu = () => (
   <>
     <a href="#main">Home</a>
-    <a href="#Company">Company</a>
+    <a href="#careers">Company</a>
     <a href="#Courses">Courses</a>
     <a href="#Teachers">Teachers</a>
     <a href="#Shop">Shop</a>
