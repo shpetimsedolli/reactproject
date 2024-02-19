@@ -28,7 +28,6 @@ const Navbar = () => {
           <Menu />
         </ul>
         <div className="navbar__btns">
-          <img src="assets/images/cart.png" alt="" />
           <button class="navbar__btn">Login</button>
           <button class="navbar__btn active-btn">Register</button>
         </div>
@@ -49,6 +48,10 @@ const Navbar = () => {
           {toggleMenu && (
             <ul className="links active">
               <Menu />
+              <div className="activebtn">
+                <button class="navbar__btn">Login</button>
+                <button class="navbar__btn active-btn">Register</button>
+              </div>
             </ul>
           )}
         </div>

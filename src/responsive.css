@@ -35,13 +35,15 @@
     box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px,
       rgba(0, 0, 0, 0.05) 0px 5px 10px;
     justify-content: center;
-    height: 100vh;
+    height: auto;
     animation: animate__bounceInDown 0.5s;
   }
-
+  .activebtn {
+    display: none;
+  }
   .active a {
     margin-right: 0px;
-    padding: 20px;
+    padding: 10px;
   }
 
   .main__content h1 {
@@ -112,7 +114,15 @@
   .navbar__btns {
     display: none;
   }
-
+  .active {
+    height: auto;
+  }
+  .active a {
+    padding: 0px;
+  }
+  .activebtn {
+    display: block;
+  }
   .academy__img2,
   .academy__img,
   .firstimage {
