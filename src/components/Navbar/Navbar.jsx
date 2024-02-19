@@ -28,8 +28,8 @@ const Navbar = () => {
           <Menu />
         </ul>
         <div className="navbar__btns">
-          <button class="navbar__btn">Login</button>
-          <button class="navbar__btn active-btn">Register</button>
+          <button className="navbar__btn">Login</button>
+          <button className="navbar__btn active-btn">Register</button>
         </div>
         <div className="toggle-button">
           {toggleMenu ? (
@@ -49,8 +49,8 @@ const Navbar = () => {
             <ul className="links active">
               <Menu />
               <div className="activebtn">
-                <button class="navbar__btn">Login</button>
-                <button class="navbar__btn active-btn">Register</button>
+                <button className="navbar__btn">Login</button>
+                <button className="navbar__btn active-btn">Register</button>
               </div>
             </ul>
           )}

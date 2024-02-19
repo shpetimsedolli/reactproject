@@ -8,8 +8,8 @@ const Career = () => {
       <div className="container">
         <div className="careerwrap">
           <div className="careerbox">
-            <div class="image">
-              <i class="bi bi-stopwatch"></i>
+            <div className="image">
+              <i className="bi bi-stopwatch"></i>
             </div>
             <p>10 minutes a day</p>
             <span>
@@ -18,8 +18,8 @@ const Career = () => {
             </span>
           </div>
           <div className="careerbox">
-            <div class="image">
-              <i class="bi bi-lightbulb"></i>
+            <div className="image">
+              <i className="bi bi-lightbulb"></i>
             </div>
             <p>100+ Online Courses</p>
             <span>
@@ -28,7 +28,7 @@ const Career = () => {
           </div>
           <div className="careerbox">
             <div className="image">
-              <i class="fa-solid fa-graduation-cap"></i>
+              <i className="fa-solid fa-graduation-cap"></i>
             </div>
             <p>Valuable Certificates</p>
             <span>

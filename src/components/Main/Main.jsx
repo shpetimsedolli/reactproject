@@ -19,8 +19,8 @@ const Main = () => {
               your favourite language now!
             </p>
             <div className="main__btn">
-              <button class="navbar__btn active-btn">Get Started</button>
-              <button class="navbar__btn">Learn more</button>
+              <button className="navbar__btn active-btn">Get Started</button>
+              <button className="navbar__btn">Learn more</button>
             </div>
           </div>
           <div className="main__image">
