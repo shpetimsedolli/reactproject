@@ -1,11 +1,11 @@
 import React, { useState } from "react";
-import { RiMenu3Line, RiCloseLine, RiToggleLine } from "react-icons/ri";
+import { RiMenu3Line, RiCloseLine } from "react-icons/ri";
 import "./navbar.css";
 import logo from "../../assets/logo.svg";
 
 const Menu = () => (
   <>
-    <a href="#Home">Home</a>
+    <a href="#main">Home</a>
     <a href="#Company">Company</a>
     <a href="#Courses">Courses</a>
     <a href="#Teachers">Teachers</a>
@@ -22,6 +22,7 @@ const Navbar = () => {
       <div className="navbar">
         <div className="logo__items">
           <img src={logo} alt="" />
+          <span>LANGUAGEKOS</span>
         </div>
         <ul className="links">
           <Menu />

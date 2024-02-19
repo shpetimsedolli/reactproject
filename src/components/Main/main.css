@@ -1,0 +1,48 @@
+.main_content {
+  background: url(../../assets/Rectangle\ 9.png) no-repeat right;
+}
+
+.mainwrap {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.main__content h1 {
+  font-size: 45px;
+}
+
+.main__content p {
+  margin: 50px 0px;
+  font-size: 20px;
+}
+
+.main__image {
+  position: relative;
+}
+.main__btn {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.main__btns {
+  box-shadow: inset 0px 0px 3px 0px rgba(0, 0, 0, 0.4);
+  border-radius: 50px 5px 5px 50px;
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  position: absolute;
+  bottom: 165px;
+  left: -30%;
+}
+
+.btns2 {
+  bottom: 50px;
+  left: -40%;
+}
+
+.main__btns p {
+  padding: 18px 50px;
+  font-size: 25px;
+}

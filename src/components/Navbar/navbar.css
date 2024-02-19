@@ -8,6 +8,11 @@
   padding: 30px 0px;
   justify-content: space-between;
 }
+.logo__items {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
 
 .logo__items a {
   display: flex;
