@@ -7,8 +7,8 @@ const Menu = () => (
   <>
     <a href="#main">Home</a>
     <a href="#careers">Company</a>
-    <a href="#Courses">Courses</a>
-    <a href="#Teachers">Teachers</a>
+    <a href="#academypage">Courses</a>
+    <a href="#passions">Teachers</a>
     <a href="#Shop">Shop</a>
     <a href="#Blog">Blog</a>
     <a href="#ContactUs">Contact Us</a>

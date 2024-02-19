@@ -1,0 +1,20 @@
+.academy {
+  margin: 150px 0px;
+}
+
+.academywrap {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  margin-top: 100px;
+}
+
+.academy__content h1 {
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.academy__content p {
+  margin: 50px 0px;
+  font-size: 17px;
+}
