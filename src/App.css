@@ -13,3 +13,7 @@
   margin: 0 auto;
   padding: 0px 15px;
 }
+
+html {
+  scroll-behavior: smooth;
+}

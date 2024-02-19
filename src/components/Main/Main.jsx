@@ -6,7 +6,7 @@ import firstimage from "../../assets/mainimage.png";
 
 const Main = () => {
   return (
-    <div className="main_content" id="main">
+    <div className="main_content" id="main" data-aos="zoom-out">
       <div className="container">
         <div className="mainwrap">
           <div className="main__content">

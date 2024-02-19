@@ -4,7 +4,7 @@ import group88 from "../../assets/Group 88.svg";
 
 const Footer = () => {
   return (
-    <div className="footer">
+    <div className="footer" data-aos="fade-right">
       <div className="container">
         <div className="footerwrap">
           <div className="footer__content">

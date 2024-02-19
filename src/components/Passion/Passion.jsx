@@ -9,7 +9,7 @@ const Passion = () => {
         Learn the language you are passionate about
       </h3>
       <div className="container">
-        <div className="academywrap">
+        <div className="academywrap" data-aos="flip-left">
           <div className="passion__content">
             <ol>
               <li>Find the language you want to learn</li>

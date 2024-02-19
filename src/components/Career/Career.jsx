@@ -3,7 +3,7 @@ import "./career.css";
 
 const Career = () => {
   return (
-    <div className="career" id="careers">
+    <div className="career" id="careers" data-aos="fade-right">
       <h3>Open your world to new career opportunities</h3>
       <div className="container">
         <div className="careerwrap">

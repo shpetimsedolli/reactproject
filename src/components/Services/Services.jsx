@@ -10,7 +10,7 @@ const Services = () => {
       <h4 className="section__tittle">
         We help you access services u cant get nowhere else
       </h4>
-      <div className="servicewrap">
+      <div className="servicewrap" data-aos="zoom-in-up">
         <div className="service__box">
           <img src={users} alt="" className="service__icon" />
           <h5>Experienced Teachers</h5>
