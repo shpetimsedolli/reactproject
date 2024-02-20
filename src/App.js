@@ -11,6 +11,7 @@ import {
   Passion,
   Services,
   Career,
+  ScrollToTop,
 } from "./components";
 
 import "./App.css";
@@ -21,6 +22,7 @@ const App = () => {
   }, []);
   return (
     <div className="App">
+      <ScrollToTop />
       <Navbar />
       <Main />
       <Career />

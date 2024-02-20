@@ -7,3 +7,4 @@ export { default as Services } from "./Services/Services";
 export { default as Passion } from "./Passion/Passion";
 export { default as Navbar } from "./Navbar/Navbar";
 export { default as Career } from "./Career/Career";
+export { default as ScrollToTop } from "./ScrollToTop/BackToTopButton";
