@@ -4,9 +4,9 @@ import pexels from "../../assets/pexels-rodnae-productions-6517095.png";
 
 const Academy = () => {
   return (
-    <div className="academy" id="academypage" data-aos="flip-left">
+    <div className="academy" id="academypage">
       <div className="container">
-        <div className="academywrap">
+        <div className="academywrap" data-aos="flip-left">
           <img className="academy__img2" src={pexels} alt="" />
           <div className="academy__content">
             <h1>

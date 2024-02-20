@@ -25,7 +25,7 @@ function BackToTopButton() {
     <div className="Button2">
       {backtoTopButton && (
         <button className="Button" onClick={scrollUp}>
-          <i class="fa-solid fa-jet-fighter"></i>
+          <i className="fa-solid fa-jet-fighter"></i>
         </button>
       )}
     </div>
